@@ -27,7 +27,7 @@ export function Header({ setSearch }){
   return (
     <Container>
       <a>
-        <h1 onClick={handleHome}>RocketMovies</h1>
+        <h1 onClick={handleHome}>MovieCapsule</h1>
       </a>
       <Input placeholder="Pesquisar pelo título" onChange={handleSearchChange}/>
       <Profile>

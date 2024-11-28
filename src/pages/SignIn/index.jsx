@@ -35,7 +35,7 @@ export function SignIn(){
   return (
     <Container>
       <Form>
-        <h1>RocketMovies</h1>
+        <h1>MovieCapsule</h1>
         <p>Aplicação para acompanhar tudo que assistir.</p>
         <h2>Faça seu login</h2>
 
