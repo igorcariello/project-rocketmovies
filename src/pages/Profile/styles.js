@@ -19,8 +19,6 @@ export const Container = styled.div`
       margin-top: 4rem;
       margin-left: 9rem;
 
-      background-color: aliceblue;
-      
       @media (max-width: 768px) {
         margin-left: 1rem;
         margin-top: 4rem;
